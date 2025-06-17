@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mlobo2012-claude-desktop-api-use-via-mcp-badge.png)](https://mseep.ai/app/mlobo2012-claude-desktop-api-use-via-mcp)
+
 # Claude Desktop API Integration via MCP
 
 This project provides an MCP server implementation that enables seamless integration between Claude Desktop and the Claude API. It allows you to bypass Professional Plan limitations and access advanced features like custom system prompts and conversation management.
